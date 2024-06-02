@@ -1,0 +1,118 @@
+NOTE: AYAW BASAHA ANG MGA "(BLABALBSIPBIWE)" GUIDE NA NIMO......
+
+
+SO this is our Website and its a shop thats all about Sports Wear.
+
+
+This is our homepage, First you see a text here on the left side perhaps this is the title.
+and a image on the right side.
+
+
+You can see this Botton (explore now) with a beautiful hover effect
+
+
+When you scroll down here you see 3 different pictures with different categories.
+
+
+Next, we have some products which is for FEATURED PRODUCTS. and here you can see  different products 
+with Product Name, Ratings, and prize.
+
+
+You can see some hover effect when i take my cursor to any products (e tudlo imong mouse sa mga pictures)
+
+
+When you scroll down you see more products
+
+
+After that we have this section with exlusive product
+
+
+Next, we have some ratings or testimonial
+
+
+Below that you some popular brands, This are the brands who sponsored us (joke dini tinoud haha)
+
+
+Below that we have footer or idk what to call this but we have this.
+And at the very bottom you see a copyright message
+
+
+Lets come back at the top, if you click on the other page for example you click this
+ product page you will see all products
+
+
+IF you scroll down you see multiple products. 
+
+
+Currently we only have 12 posted products.
+
+
+Lets comeback at the top and if you click 1 product for example this "red printed Tshirt" you
+ will go to the product detail section
+
+
+1st we scroll down so that you will find what contents we have on this page
+
+
+In this Product information page you see some Product title, Prize,
+ Size, Quantity, Add to cart botton, and product details on the right side.
+
+
+On the left side you see images, and if you click on a particular images
+ you will see the particular image in full size that you click
+
+
+and after that we have a "Related Products" and "view more" texts then more products
+
+
+Let me click on this botton "add to cart"
+
+
+In this Page you will see Product, Quantity, And Subtotal. Below
+you will see Subtotal, Tax, And total.
+
+
+
+And as you can see on the product you have this remove botton so that you can
+remove the product and next to it you have quantity and this input box
+so that you can select how many of this product you will buy.
+
+
+
+so lets proceed to home (click home sa taas) or you can click the logo to go
+to the homepage.
+
+
+
+so now lets go to the other page which is "Account". 
+
+
+On this Account page you see this image on the background and the rightside
+is a form where you can login and register.
+
+
+And thats it for out website overview.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
