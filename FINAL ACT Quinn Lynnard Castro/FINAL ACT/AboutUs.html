@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>MY NAME IS SLIM SHADY</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+
+	<link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+</head>
+<body>
+	<!----hero Section start---->
+
+	<div class="hero">
+		<nav>
+			<a href="index.html"><h2 class="logo">Nard<span>Epico</span></h2></a>
+			<ul>
+				<li><a href="test.html">Home</a></li>
+        		<li><a href="products.html">Products</a></li>
+        		<li><a href="AboutUs.html">About</a></li>
+        		<li><a href="Contact.html">Contact</a></li>
+        		<li><a href="solution.html">Solution</a></li>
+			</ul>
+		</nav>
+
+		<div class="content">
+			<div class="left-col">
+				<img src="img/play.png" id="icon">
+			</div>
+
+			<audio id="mySong">
+ 				<source src="audio/mynameis.mp3" type="audio/mpeg"/>
+ 			</audio>
+ 	<script>
+ 		var mySong = document.getElementById("mySong");
+ 		var icon = document.getElementById("icon");
+
+ 		icon.onclick = function(){
+ 			if(mySong.paused){
+ 				mySong.play();
+ 				icon.src = "img/pause.png";
+ 				}else{
+ 					mySong.pause();
+ 					icon.src = "img/play.png"
+
+
+
+ 			}
+ 		}
+
+
+ 	</script>
+			<h4>HIT THE PLAY BUTTTON!!</h4>
+			<h1>Quinn Lynnard <span>Castro</span></h1>
+			<h3>I'm a USTP Student.</h3>
+			<div class="newslatter">
+			</div>
+		</div>
+	</div>
+
+	<!----About section start---->
+	<section class="about">
+		<div class="main">
+			<img src="img/main-img.png">
+			<div class="about-text">
+				<h2>About Me</h2>
+				<h5>A USTP Student <span>& Also a Sad Boy</span></h5>
+				<p>Quinn Lynnard Castro is my name. I am a boy in lanao del norte, born on august 12 2003, as a first son of 2 children. My father's name is Joaquin Castro and my mother's name is Edelyn Gumiala</p>
+				<a href="resume.html"><button type="button">Resume</button></a>
+				<a href="Contact.html"><button type="button">Contact Me</button></a>
+			</div>
+		</div>
+	</section>
+
+
+
+	<!------footer start--------->
+	<footer>
+		<p>Quinn Lynnard Castro</p>
+		<p>If you want to know me more you can check my:</p>
+		<div class="social">
+			<a href="https://www.facebook.com/safgagwrshedhdfhas"><i class="fab fa-facebook-f"></i></a>
+			<a href="https://www.instagram.com/itsnardandersen"><i class="fab fa-instagram"></i></a>
+			<a href="https://twitter.com/itsnardandersen"><i class="fab fa-twitter"></i></a>
+		</div>
+		<p class="end">Nard Epico - 2022</p>
+	</footer>
+</body>
+</html>	
